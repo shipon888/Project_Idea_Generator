@@ -1,0 +1,50 @@
+[
+    {
+        "user_input": "I need a project idea in C programming.",
+        "response": "Create a recommendation system"
+    },
+    {
+        "user_input": "hey",
+        "response": "Sorry. I'm not sure how to respond to that. Can you please rephrase?"
+    },
+    {
+        "user_input": "what",
+        "response": "Create a recommendation system"
+    },
+    {
+        "user_input": "what",
+        "response": "Build a basic file encryption tool"
+    },
+    {
+        "user_input": "I need a project idea",
+        "response": "Develop a speech recognition tool"
+    },
+    {
+        "user_input": "I need a project idea in C programming",
+        "response": "Create a text-based adventure game"
+    },
+    {
+        "user_input": "",
+        "response": "Develop a weather forecasting application"
+    },
+    {
+        "user_input": "I need a project idea in C programming",
+        "response": "Develop a speech recognition application"
+    },
+    {
+        "user_input": "I need a project idea in C programming",
+        "response": "Create a stock price analysis tool"
+    },
+    {
+        "user_input": "I need a project idea in C programming",
+        "response": "Create a recommendation system"
+    },
+    {
+        "user_input": "I need a project idea",
+        "response": "Build a task automation tool"
+    },
+    {
+        "user_input": "I need a project idea",
+        "response": "Build a simple email system"
+    }
+]
